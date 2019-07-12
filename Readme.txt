@@ -7,8 +7,8 @@ network or Docker compose to discover the peer. However, along with multiple nod
 Kubernetes uses an overlay network or container network interface (CNI) to achieve
 multiple container communication.
 
- Understanding Kubernetes is not easy, but a step-by-step learning process on
+Understanding Kubernetes is not easy, but a step-by-step learning process on
 how to set up, configure, and manage Kubernetes is really fun.
 
 
- sudo netstat -tulpn | grep LISTEN
+sudo netstat -tulpn | grep LISTEN
